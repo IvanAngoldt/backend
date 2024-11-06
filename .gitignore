@@ -1,0 +1,10 @@
+# Go binaries
+*.exe
+*.out
+*.test
+
+# Go workspace file
+go.work
+
+# Vendor directory
+/vendor/
